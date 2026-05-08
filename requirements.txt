@@ -1,0 +1,14 @@
+# Data Acquisition
+nflreadpy>=3.2.0
+
+# Data Engineering & Manipulation
+polars>=0.20.0
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Statistical Modeling
+statsmodels>=0.14.0
+
+# Data Visualization
+matplotlib>=3.7.0
+seaborn>=0.12.0
