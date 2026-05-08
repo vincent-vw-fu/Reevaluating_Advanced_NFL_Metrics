@@ -13,9 +13,10 @@ Regression modeling demonstrates that this revised framework outperforms traditi
 All play-by-play data is sourced from the open-source [nflverse](https://github.com/nflverse/nflverse-data) repository, accessed via the `nflreadpy` Python library.
 
 ## Repository Structure
-* `analysis.ipynb`: The primary Jupyter Notebook containing data ingestion, preprocessing, feature engineering, and visualization.
-* `requirements.txt` / `environment.yml`: Dependency files for reproducing the local environment.
-* `README.md`: Project documentation and setup instructions.
+- `notebooks/`: Contains the primary Jupyter Notebook (`Final_NFL_Advanced_Metrics.ipynb`) for data ingestion, preprocessing, feature engineering, and visualization.
+- `reports/`: Contains the final written analysis and summary of findings (`Analysis.pdf`).
+- `README.md`: Project documentation, methodology, and setup instructions.
+- `requirements.txt`: Dependency file for reproducing the local Python environment.
 
 ---
 
